@@ -2,7 +2,7 @@
 
 # xtext.sales.transactions
 
-This repository provides the concrete syntax definition for the metamodel defined in second assignment A2 (https://github.com/ShrawanBK/xtext.sales.transactions/blob/main/README.md) by using xText.
+This repository provides the concrete syntax definition for the metamodel defined in second assignment A2 (https://github.com/yishakabreham/mde.sales.transactions.assignment2) by using xText.
 
 The xtext project has been generated using the ecore model defined in the second assignment and has been modified to simplify the syntax.
 
